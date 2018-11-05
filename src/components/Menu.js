@@ -5,7 +5,7 @@ class Menu extends Component {
         return (
             <div>
                 <h1>Menu</h1>
-                <a href='/game'>Play</a>
+                <a href='/board'>Play</a>
             </div> 
         );
     }
