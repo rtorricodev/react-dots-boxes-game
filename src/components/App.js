@@ -9,8 +9,6 @@ import Error from './Error';
 class App extends Component {
     render() {
         return (
-
-            
             <Router>
                 <Switch>
                     <Route path="/" component={Menu} exact/>

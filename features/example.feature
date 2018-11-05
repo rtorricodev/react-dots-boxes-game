@@ -1,6 +1,6 @@
 Feature: menu
   In order to play the game
-  As a palyer
+  As a player
   I want to choose the mode of game
 
   Scenario: menu
